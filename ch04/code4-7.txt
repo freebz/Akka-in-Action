@@ -1,0 +1,11 @@
+코드 4-7 생명주기 훅 테스트 결과
+
+Constructor
+preStart
+preRestart force restart
+postStop
+Constructor
+postRestart force restart
+preStart
+Receive
+postStop
