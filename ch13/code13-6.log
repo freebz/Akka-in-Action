@@ -1,0 +1,6 @@
+# 코드 13-6 로그 이벤트 형식
+
+my-host-1 | web-app | ok    | 2017-06-12T12:12:00.127Z | 5 tickets sold.||
+my-host-2 | web-app | ok    | 2017-06-12T12:12:01.127Z | 3 tickets sold.||
+my-host-1 | web-app | ok    | 2017-06-12T12:12:02.127Z | 1 tickets old.||
+my-host-2 | web-app | error | 2017-06-12T12:12:03:127Z | exception!!||
