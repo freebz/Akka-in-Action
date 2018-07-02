@@ -1,0 +1,5 @@
+코드 14-8 시드 노드 1이 갑자기 중단됨
+
+Cluster Node [akka.tcp://words@127.0.0.1:2552]
+- Marking node(s) as UNREACHABLE
+  [Member(address = akka.tcp://words@127.0.0.1:2551, status = Up)]

@@ -1,0 +1,9 @@
+코드 14-6 시드 노드 1이 클러스터에서 이탈된 다음 시드 노드 2가 리더가 됨
+
+[Cluster(akka://words)] Cluster Node [akka.tcp://words@127.0.0.1:2552]
+- Marking exiting node(s) as UNREACHABLE
+[Member(address = akka.tcp://words@127.0.0.1:2551, status = Exiting)].
+This is expected and they will be removed.
+
+[Cluster(akka://words)] Cluster Node [akka.tcp://words@127.0.0.1:2552]
+- Leader is removing exiting node [akka.tcp://words@127.0.0.1:2551]

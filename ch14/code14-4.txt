@@ -1,0 +1,9 @@
+코드 14-4 시드 노드 1의 터미널 출력
+
+[Cluster(akka://words)] Cluster Node [akka.tcp://words@127.0.0.1:2551]
+        - Node [akka.tcp://words@127.0.0.1:2551] is JOINING, roles [seed])
+- Leader is moving node [akka.tcp://words@127.0.0.1:2551] to [Up]
+- Node [akka.tcp://words@127.0.0.1:2552] is JOINING, roles [seed]
+- Leader is moving node [akka.tcp://words@127.0.0.1:2552] to [Up]
+- Node [akka.tcp://words@127.0.0.1:2553] is JOINING, roles [seed]
+- Leader is moving node [akka.tcp://words@127.0.0.1:2553] to [Up]

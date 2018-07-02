@@ -1,0 +1,4 @@
+코드 14-3 시드 노드가 클러스터에 합루했음을 확인하는 메시지
+
+[Cluster(akka://words)] Cluster Node [akka.tcp://words@127.0.0.1:2553]
+- Welcome from [akka.tcp://words@127.0.0.1:2551]
